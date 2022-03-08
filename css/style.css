@@ -11,6 +11,7 @@
      background-repeat: no-repeat;
      background-size: cover;
      position: relative;
+     box-sizing: border-box;
  }
  .my-titled{
      position: absolute;
@@ -140,6 +141,7 @@
     }
     .fitur-invitation{
         height: 1900px;
+        width: 100%;
      }
      .box-fitur{
         width: 350px;
